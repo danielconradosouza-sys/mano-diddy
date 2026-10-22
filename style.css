@@ -50,5 +50,34 @@ body {
 }
 
 
+{
+
+
+
+<main class="container">
+  <h1 class="glow">Joga Bonito ⚽</h1>
+
+  <p>
+    Talento, velocidade e estilo dentro e fora de campo.
+  </p>
+
+  <a href="#destaques" class="btn">
+    Ver destaques
+  </a>
+
+  <section id="destaques" class="grid">
+    <article class="card">
+      <h2>Habilidade</h2>
+      <p>Dribles e jogadas de outro nível.</p>
+    </article>
+
+    <article class="card">
+      <h2>Velocidade</h2>
+      <p>Explosão e criatividade em campo.</p>
+    </article>
+  </section>
+</main>
+
+}
 
 
